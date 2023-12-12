@@ -1,6 +1,9 @@
 #stack in Data Structure 
 #Last In First Out (LIFO)
-
+#Array (contiguous, fixed size, waste Memory, Inefficient in Insertion and Deletion because 
+# it requires shifting all elements to make space for new element 
+# or remove an element from the middle of array, Access Time is best than linked List because 
+# complexity is const(1) or O(1), Better cache locality )
 
 class Stack():
     
