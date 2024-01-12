@@ -1,7 +1,6 @@
 #stack in Data Structure 
 #Last In First Out (LIFO)
 #LinkedList (non contiguous, dynamic size,can be done more efficiently 
- 
 # since it involves updating pointers, and no shifting of elements is required.
 # Access Time not best than array because 
 # complexity is n or O(n), Lower cache locality than Array )
