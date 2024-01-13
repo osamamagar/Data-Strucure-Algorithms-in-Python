@@ -4,7 +4,7 @@
 
 
 # This algorithm repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
-#The pass through the list is repeated until no swaps are needed, indicating that the list is sorted.
+# The pass through the list is repeated until no swaps are needed, indicating that the list is sorted.
 #
 #
 def bubble_sort(arr):
