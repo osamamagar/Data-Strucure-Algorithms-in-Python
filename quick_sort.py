@@ -1,5 +1,10 @@
 ## Quick Sort
 
+# Time Complexity: O(n log n) on average, O(n^2) in the worst case (with poor pivot choices)
+#                  Quick Sort has an average-case time complexity of O(n log n),
+#                  making it efficient for most practical cases. However, in the worst case,
+#                  it can degrade to O(n^2).
+
 '''
 Quicksort is a sorting algorithm based on the divide and conquer approach where
 
