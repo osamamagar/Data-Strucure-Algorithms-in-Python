@@ -52,5 +52,3 @@ my_list.display()
 
 
 
-
-
